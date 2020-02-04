@@ -1,0 +1,42 @@
+.App{
+    padding:10px
+}
+
+body {
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+    box-sizing: border-box;
+    color:white;
+    background-color: #555;
+    text-shadow: 2px 2px black;
+}
+
+button{
+    background-color: #fff;
+    border:1.25px solid black;
+    margin: 0px 2px;
+    padding: 4px 14px;
+    font-size: 12px;
+    transition: .2s linear;
+    letter-spacing: 2px;
+}
+
+button:hover{
+    background-color: rgba(0,0,0,0.9);
+    color:white;
+    border-color:white
+}
+
+.spanColor {
+    color:darkcyan
+}
+
+.important{
+    color:firebrick
+}
+
+strong {
+    font-size: 22px;
+    letter-spacing: 1px;
+    margin-right:5px
+}
