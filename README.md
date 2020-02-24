@@ -14,4 +14,11 @@ The creation of the application was primarily aimed at learning to create the ri
 
 ## Download Repo
 If you want to download my code,
-you must clone the repository with the command git clone https://matthave.github.io/toDoAppReact/
+you must clone the repository with the command git clone https://github.com/Matthave/toDoAppReact
+
+## Launching the application
+After cloning the application you must use the command
+npm install
+
+next:
+npm start
